@@ -1,0 +1,38 @@
+.list{
+    color:rgb(148, 5, 5)
+}
+
+h3{
+    color:red;
+}
+
+.ul1{
+    color:brown;
+    letter-spacing: 4px;
+}
+
+.italic{
+    font-style: italic;
+    text-decoration-line: underline ; 
+}
+
+.overline{
+    text-decoration-line: line-through;
+}
+
+.bold_yellow{
+    background-color: yellow;
+}
+
+.span{
+    background-color: yellow;
+}
+.para{
+    color:brown
+}
+
+.prepbytes{
+    font-style: italic;
+    color: red;
+    background-color: yellow;
+}
